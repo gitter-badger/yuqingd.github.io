@@ -1,9 +1,9 @@
-﻿
+﻿﻿
 
 <p align="center" style="color:blue">
   <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
     <h2 align="center">
-        仓库内容持续更新中...
+        Per Ardua Ad Alta...
     </h2>
   </a>
 </p>
@@ -20,7 +20,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
+  <a href="https://github.com/ddyyqq112233/yuqingd.github.io" target="_blank"><img src="https://img.shields.io/badge/Github-r2coding-red.svg"></a>
   <a href="https://gitee.com/rd2coding/Road2Coding" target="_blank"><img src="https://img.shields.io/badge/Gitee-r2coding-blue.svg"></a>
   <a href="https://space.bilibili.com/384068749" target="_blank"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical"></a>
   <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
@@ -48,7 +48,7 @@
 方便自己也方便他人。仓库内容会保持**持续更新**，欢迎收藏品鉴！
 
 ---
-# **本仓库内容地图**
+# **Roadmap**
 ---
 
 ![](https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/contentmap.3sdmma4od740.png)
@@ -822,19 +822,6 @@
 
 ---
 
-# **应用框架和工具**
-
----
-
-计算机基础聊完了，接下来就是应用和实践的环节了。这部分通常会涉及到一些**工具**、**编程环境**、以及**应用框架**。
-
-企业级开发不同于个人自学，出于**可复用性**、**稳定性**、**开发成本**、**开发效率**、**质量保证**等一系列因素的考量，不可能每一个功能、每一个组件都从0开始徒手造轮子，所以这时候各种应用框架和工具的出现就非常有帮助了。
-
-其实框架讲白了就是别人经过多年迭代写好的一套**工具**、**代码库**、**逻辑**、亦或是**流程**，把原本都需要从0开始手写的基本功能和组件都给封装进去，用户只要符合框架约定的规则进行编码，或者调用框架提供的方法或者工具，就能快速拉起业务功能，创造实际经济价值。
-
-所以框架的出现从不同的角度看也是有多面性的：对于企业级开发效率提升而言肯定是有帮助的，但是对于程序员个人思考编码能力提升却未必是好事，所以多注重基础、深挖原理，提升自身竞争力还是非常有必要的。
-
-
 ## Spring系列框架
 
 <!-- panels:start -->
@@ -894,65 +881,6 @@
 <!-- panels:start -->
 
 <!-- div:left-panel -->
-
-## 前后端分离
-
-- [概念科普：到底什么是RESTful ？](https://mp.weixin.qq.com/s/um5kDYBscf5sy7FUhmP7ww)
-- [概念科普：RESTful风格的前世今生](https://mp.weixin.qq.com/s/lrFQUEITm_3zASIBR1mcQw)
-- [概念科普：为什么需要前后端分离？](https://mp.weixin.qq.com/s/Y0z-3r_Mdm-etCwa0GmQmQ)
-- [实践应用：前后端分离的接口规范，我们是如何做的？](https://mp.weixin.qq.com/s/zAOYAcR-6DEJU_s0qXe91g)
-- [实践应用：前后端分离式开发：高效协作10条准则](https://mp.weixin.qq.com/s/niYHlrCDIkA1NqPVI_VJ8w)
-- [实践应用：前后端分离后，接口联调总是甩锅怎么办？](https://mp.weixin.qq.com/s/TqSQ21nNvV5WwWDY_WItQA)
-- [实践应用：前后端分离项目接口优雅数据交互例析](https://mp.weixin.qq.com/s/B-mJjBeJy5W7s2O79Iitqg)
-- [实践应用：前后端分离实践中常遇到的跨域问题](https://mp.weixin.qq.com/s/Sjrgf3Tp3vR5zsNIiYzdpA)
-- [工具推荐：前后端都分离了，该搞个好用的API管理系统了](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)
-
-<!-- div:right-panel -->
-
-## 分布式/微服务
-
-- [科普篇：企业里常用的软件架构剖析](https://mp.weixin.qq.com/s/NJFJ5UrzGk0cMGL1oZe0Bg)
-- [科普篇：单体→分布式→微服务，这些年的软件架构是如何发育的](https://mp.weixin.qq.com/s/kfhCEDSUGwnNUbtGDL_rvQ)
-- [科普篇：微服务架构的全局图景分析](https://mp.weixin.qq.com/s/Iy1dguNFkU73r1FxYIvlIQ)
-- [科普篇：分布式架构负载均衡的几种方式](https://mp.weixin.qq.com/s/8CvoGCtGDvMHR91Lx89pxQ)
-- [科普篇：RPC 技术(框架) 大科普](https://mp.weixin.qq.com/s/iTnKumgre3SzrBuWf8KB6g)
-- [原理探究：什么是分布式事务](https://mp.weixin.qq.com/s/_56jq_p_nDUiBwaI2MTlmA)
-- [原理探究：Redis分布式锁保姆级无死角分析](https://mp.weixin.qq.com/s/RViDM1WHE61SDLNKzUmTAg)
-- [原理探究：如何设计一个高并发的秒杀架构？](https://mp.weixin.qq.com/s/fLLd-ml-gdo3-700iJso_A)
-- [原理探究：亿级流量网关设计思路](https://mp.weixin.qq.com/s/J0aSVry1-Ss1OTA-jQAX3w)
-- [原理探究：分布式架构的几个常见的坑](https://mp.weixin.qq.com/s/pg6lyAkgAaqSAZjiPgQTWA)
-- [原理探究：什么是异地多活架构](https://mp.weixin.qq.com/s/Uv9pAOocep2rUW5qgGFSSw)
-- [实践应用：RPC框架实践之：Apache Thrift](https://mp.weixin.qq.com/s/iCw-CHa5ITz6zoQI78Wb3w)
-- [实践应用：RPC框架实践之：Google gRPC](https://mp.weixin.qq.com/s/LdzkBUzvyjMVW7pgzkA23w)
-- [实践应用：Spring Cloud Feign的两种使用姿势](https://mp.weixin.qq.com/s/U4eustBBu9N-6B1SRsYc7w)
-- [实践应用：Spring Cloud Eureka Server高可用之：在线扩容](https://mp.weixin.qq.com/s/oMsZquaphqEJqoGt1dt9WA)
-- [实践应用：Eureka Server 开启Spring Security Basic认证](https://mp.weixin.qq.com/s/tRRwG1jnWi5r1XlbeBlv8g)
-- [实践应用：Eureka Server启用 https服务指北](https://mp.weixin.qq.com/s/EAi7F3lBQ7ZrjSjNnFkj4g)
-- [实践应用：微服务调用链追踪中心搭建](https://mp.weixin.qq.com/s/c55ejzWEU6SQBdcmTTRC1g)
-- [实践应用：利用Zipkin追踪Mysql数据库调用链](https://mp.weixin.qq.com/s/wQRBxBBXCnP0YKPvtIPRcA)
-- [实践应用：一个小团队的微服务架构改造之路](https://mp.weixin.qq.com/s/VjBiUmQNQPpSHeSVjK1C2A)
-- 内容持续更新中...
-
-
-<!-- div:left-panel -->
-## 容器/集群
-
-- [知识总结：常用虚拟化技术（VMware/KVM/Docker）对比](https://mp.weixin.qq.com/s/hVNMfh9nWdilXHSqvyS9ng)
-- [知识总结：Docker从入门到干活，看这一篇入门](https://mp.weixin.qq.com/s/YlcvlUQ-xkz25PuYkeEQqw)
-- [知识总结：Docker Swarm的前世今生](https://mp.weixin.qq.com/s/jf4qWaEYfn0CH5A6fG6MKw)
-- [知识总结：编写高效Dockerfile的几条准则](https://mp.weixin.qq.com/s/MDGvWKkk4npWtqo2k4tsfg)
-- [实践应用：Docker Swarm集群初探](https://my.oschina.net/hansonwang99/blog/1603378)
-- [实践应用：利用ELK搭建Docker容器化应用日志中心](https://mp.weixin.qq.com/s/sO9_TixS0XrKoCKIS9oETw)
-- [实践应用：Docker容器可视化监控中心搭建](https://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483763&idx=1&sn=6ceb9e73540b5016dadfb212636b3855&scene=21#wechat_redirect)
-- [实践应用：Docker容器跨主机通信之直接路由方式](https://mp.weixin.qq.com/s/evxiE6nhK6_y6zLMFWHTKQ)
-- [实践应用：利用TICK搭建Docker容器可视化监控中心](https://mp.weixin.qq.com/s/-54IZbsX2nQIHaMZ1y6fTQ)
-- [实践应用：利用Kubeadm部署Kubernetes 1.13.1集群实践录](https://mp.weixin.qq.com/s/wx68Chw1XaKQ1cb57jTiOw)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：初章）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483699&idx=1&sn=57b84f4ec72c8a578934cdb4225e6fe7&chksm=fdded7f7caa95ee198652c295b48b74565fd244afc4dccc0551b036c8216caab0397a1342d99&scene=21#wechat_redirect)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：K8S集群搭建）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483755&idx=1&sn=92a547c579aeacf1db9a8f0e56601b52&chksm=fdded7afcaa95eb9d6aa6cf323bff1df46692fc6a6672e0a483105f091ddf9670fb06d034e2a&scene=21#wechat_redirect)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：K8S环境理解和练手）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483758&idx=1&sn=629b6219a06374b2050703b9549037fa&chksm=fdded7aacaa95ebc9a3e88e839515b13109752c26c586032ae60219d2c3b24e13385e1bcd37c&scene=21#wechat_redirect)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：基础镜像制作与实验）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483759&idx=1&sn=8403d42fe1769a252f9ee2997fc2f561&chksm=fdded7abcaa95ebd8cdae86f4d692f1f6e92daab74dbbd8c56c6db8fe6aa2a3616ccce1eebb1&scene=21#wechat_redirect)
-- [实践应用：利用K8S技术栈打造个人私有云（连载之：K8S资源控制）](http://mp.weixin.qq.com/s?__biz=MzU4ODI1MjA3NQ==&mid=2247483760&idx=1&sn=d44f2c744ccdc965fb6c7e4d9efe9f92&chksm=fdded7b4caa95ea278d7363b4b4788d84914b915422a9cc98e7936c3bce0c7ce1197abfac13f&scene=21#wechat_redirect)
-- 内容持续更新中...
 
 <!-- div:right-panel -->
 
@@ -1254,16 +1182,6 @@
 - [大连有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/12inr2oRTULf7NhYOBGMYw)
 - [苏州有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/529Zv24uToDW4xxEOFdiqw)
 
-## 其他求职相关问题
-
-- [为什么有些大公司技术却弱爆了？](https://mp.weixin.qq.com/s/QUJzl1ZG77DDnQNK0OAsHg)
-- [嵌入式行业到底有没有搞头？](https://mp.weixin.qq.com/s/iV7DMApxhEw5YL-upIowVA)
-- [找工作时，公司所说的「给期权」到底是什么东西？](https://mp.weixin.qq.com/s/9XMAvP_t0B1Ev57-ZC42yw)
-- [入职一家公司，应该选择新业务还是老业务？](https://mp.weixin.qq.com/s/cu7mDeU2q2uEG8Q0CPzDEA)
-- [采访了一位技术总监：聊了聊跳槽的心态问题](https://mp.weixin.qq.com/s/NGJc71cW2TKEONe6jhIUSg)
-- [程序员从技术→管理，要走哪些路？](https://mp.weixin.qq.com/s/4_MB3L511h7qoXNxPRdOvQ)
-
-
 ---
 
 <a name="视频教程"></a>
@@ -1438,43 +1356,6 @@
 - [md2all markdown排版工具](http://md.aclickall.com/)
 - [在线代码截图工具](https://carbon.now.sh/)
 
-
-## 摸鱼时间
-
-咳咳。。。
-
-  - [0x00000001](https://www.bilibili.com/)
-  - [0x00000002](https://mo.fish/)
-  - [0x00000003](http://www.mazegenerator.net/)
-  - [0x00000004](https://duomoyu.com/)
-  - [0x00000005](http://slither.io/)
-  - [0x00000006](https://www.anyknew.com/#/)
-  - [0x00000007](http://gogoame.sumbioun.com/)
-  - [0x00000008](https://flipanim.com/)
-  - [0x00000009](https://zty.pe/)
-  - [0x0000000a](https://aidn.jp/mikutap/)
-  - [0x0000000b](http://zoomquilt.org/)
-  - [0x0000000c](https://lab.bangbang93.com/wsyw)
-  - [0x0000000d](https://lmbtfy.cn/)
-  - [0x0000000e](https://suulnnka.github.io/BullshitGenerator/index.html)
-  - [0x0000000f](https://zzkia.noddl.me/)
-  - [0x00000010](https://www.dgtle.com/)
-  - [0x00000011](https://sspai.com/)
-
----
-
-# **联系作者**
-
----
-
-## 关于作者
-
-- 普通开发者，热情的学习者，狂热的数码迷
-- 90后，硕士毕业于华中科技大学电信专业，现从事IT类工作
-- 目前在南京栖息，天天被业务折腾得死去活来的同时依然保有对各项技术热忱的追求
-- 参加工作以后越来越理解交流与分享的重要性，我在不停地汲取大家宝贵经验的同时，也想回馈自己的所学所感给读者
-- 本仓库是作者自学编程以来所用资源和分享内容的聚合，旨在为编程自学者提供一系列清晰的学习路线/靠谱的资源/高效的工具/务实的技术文章，方便自己也方便他人。网站内容会保持持续更新，欢迎收藏品鉴
-
 ---
 ## 心路历程
 
@@ -1527,15 +1408,66 @@
 
 <a name="微信"></a>  <a name="公众号"></a>
 
-<p align="left">
-    <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/justacoder99/r2coding@master/img/qrcode_for_gh_1537917051d0_258.nd3fymuhyts.jpeg" width=""/>
-    </a>
-</p>
+## 摸鱼时间
 
+咳咳。。。
+
+  - [0x00000001](https://www.bilibili.com/)
+  - [0x00000002](https://mo.fish/)
+  - [0x00000003](http://www.mazegenerator.net/)
+  - [0x00000004](https://duomoyu.com/)
+  - [0x00000005](http://slither.io/)
+  - [0x00000006](https://www.anyknew.com/#/)
+  - [0x00000007](http://gogoame.sumbioun.com/)
+  - [0x00000008](https://flipanim.com/)
+  - [0x00000009](https://zty.pe/)
+  - [0x0000000a](https://aidn.jp/mikutap/)
+  - [0x0000000b](http://zoomquilt.org/)
+  - [0x0000000c](https://lab.bangbang93.com/wsyw)
+  - [0x0000000d](https://lmbtfy.cn/)
+  - [0x0000000e](https://suulnnka.github.io/BullshitGenerator/index.html)
+  - [0x0000000f](https://zzkia.noddl.me/)
+  - [0x00000010](https://www.dgtle.com/)
+  - [0x00000011](https://sspai.com/)
+
+ ---
+
+# Publications
+
+ ---
+ 
+ For more information about Yuqing, please see the [Curriculum Vitae](pages/cv.md) page.
+
+  ---
+
+# Contact Information
+
+ ---
+
+  > Name: Yuqing Dai / 代宇晴, Title: Mr.
+
+  <img align="left" src="/pics/bio.jpg" width="300" height="350">
+  <br clear="left"/>
+
+  > Address
+
+   School of Geography Earth and Environment Sciences\
+   University of Birmingham, Edgbaston\
+   Birmingham, UK\
+   B15 2TT
+
+
+   > Email
+
+   <yxd598@bham.ac.uk>.
+
+   > Website
+
+   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57254448300);   [ResearchGate](https://www.researchgate.net/profile/Yuqing-Dai);  [ORCID](https://orcid.org/0000-0002-8850-9527);  [ResearcherID](https://publons.com/researcher/4928690/yuqing-dai/).
 
 ---
 
-# 持续更新中...
+Continue to be updated...
+<a href="https://www.revolvermaps.com/livestats/5f1iej06diq/"><img src="//rf.revolvermaps.com/w/3/s/a/0/40/2/baff00/007eff/aa0000/5f1iej06diq.png" alt="Stats" style="border:0;"></a>
 
-[本仓库内容会持续保持更新 → 欢迎收藏品鉴！](https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww)
+---

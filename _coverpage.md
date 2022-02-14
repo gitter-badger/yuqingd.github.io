@@ -1,4 +1,4 @@
-
+﻿
 ![icon](https://cdn.jsdelivr.net/gh/wugenqiang/StaticRepo/images/icon.png)
 
 
@@ -11,8 +11,7 @@ This site was built with the assistance of **CodeSheep**, a really kind and know
 <img src="https://img.shields.io/github/forks/ddyyqq112233/NoteBook" data-origin="https://img.shields.io/github/forks/ddyyqq112233/NoteBook" alt="">
 <img src="https://img.shields.io/github/license/ddyyqq112233/NoteBook" data-origin="https://img.shields.io/github/license/ddyyqq112233/NoteBook" alt="">
 
-
 ## Whisper, "Control-F" Is Your Best Friend!
 
-[**GitHub**](https://github.com/ddyyqq112233/yuqing.github.io)
+[**GitHub**](https://github.com/ddyyqq112233/yuqingd.github.io)
 [**Getting Started**](README.md)
