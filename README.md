@@ -33,6 +33,9 @@
 联系我可以[【微信】](#微信)私我
 
 ---
+
+[![Join the chat at https://gitter.im/ddyyqq112233/my-room](https://badges.gitter.im/ddyyqq112233/my-room.svg)](https://gitter.im/ddyyqq112233/my-room?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # **为什么会有这个开源仓库**
 ---
 
